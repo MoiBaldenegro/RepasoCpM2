@@ -1,0 +1,24 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1rem;
+  background-color: #818181;
+  background-image: url("../../img-cp2/deporte-logo.png");
+  height: 2rem;
+  background-size: 4rem;
+  background-position: 50% -1%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  border-bottom: 1px solid #e6e6e6;
+}
+a {
+  text-decoration: none;
+  color: #000000;
+  cursor: pointer;
+}
+
+a:hover {
+  color: #00325b;
+}

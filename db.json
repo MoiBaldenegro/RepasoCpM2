@@ -1,0 +1,84 @@
+{
+  "deportes": [
+    {
+      "id": 1,
+      "nombre": "Fútbol",
+      "descripcion": "El fútbol es un deporte en el que dos equipos compiten por meter un balón en la portería contraria. Es uno de los deportes más populares en todo el mundo.",
+      "imagen": "https://concepto.de/wp-content/uploads/2015/02/futbol-1-e1550783405750.jpg",
+      "reglas": "Cada equipo tiene 11 jugadores y el partido se divide en dos tiempos de 45 minutos cada uno. El equipo que mete más goles gana el partido.",
+      "equipamiento": "Para jugar al fútbol se necesitan balones, porterías, redes, calzado especializado y ropa deportiva cómoda.",
+      "lugar_de_origen": "El fútbol se originó en Inglaterra en el siglo XIX.",
+      "ligas_destacadas": [
+        "La Liga española",
+        "La Premier League inglesa",
+        "La Serie A italiana",
+        "La Bundesliga alemana",
+        "La Liga MX mexicana"
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Tenis",
+      "descripcion": "El tenis es un deporte en el que dos o cuatro jugadores golpean una pelota con raquetas y tratan de hacer que el otro no la devuelva.",
+      "imagen": "https://www.usta.com/es/home/improve/tips-and-instruction/national/tennis-scoring-rules/_jcr_content/root/content/container_1029957111/container_282597976/image_copy_512726511.coreimg.jpeg/1601570936335/overview.jpeg",
+      "reglas": "El objetivo es hacer que la pelota caiga dentro del campo del oponente sin que este la devuelva. Si un jugador no devuelve la pelota, el otro gana el punto. El partido se juega al mejor de tres o cinco sets, dependiendo del torneo.",
+      "equipamiento": "Para jugar al tenis se necesitan raquetas, pelotas, calzado especializado y ropa deportiva cómoda.",
+      "lugar_de_origen": "El tenis se originó en Inglaterra en el siglo XIX.",
+      "ligas_destacadas": [
+        "El Torneo de Wimbledon",
+        "El Abierto de Estados Unidos",
+        "El Abierto de Australia",
+        "Roland Garros",
+        "La Copa ATP"
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Baloncesto",
+      "descripcion": "El baloncesto es un deporte en el que dos equipos de cinco jugadores cada uno intentan meter una pelota en un aro situado a 3 metros de altura.",
+      "imagen": "https://phantom-marca.unidadeditorial.es/7b8ce9ed81086a089a4d787a84646c67/crop/0x0/2044x1363/resize/660/f/webp/assets/multimedia/imagenes/2022/11/03/16674667147113.jpg",
+      "reglas": "Cada equipo intenta meter la pelota en el aro contrario y el equipo con más puntos al final del partido gana. El partido se divide en cuatro cuartos de 12 minutos cada uno.",
+      "equipamiento": "Para jugar al baloncesto se necesitan balones, aros, tableros, calzado especializado y ropa deportiva cómoda.",
+      "lugar_de_origen": "El baloncesto se originó en Estados Unidos en el siglo XIX.",
+      "ligas_destacadas": [
+        "La NBA estadounidense",
+        "La Liga ACB española",
+        "La Liga argentina de básquet",
+        "La LNB francesa",
+        "La BSL turca"
+      ]
+    },
+    {
+      "id": 4,
+      "nombre": "Atletismo",
+      "descripcion": "El atletismo es un deporte que incluye diversas disciplinas como carreras, saltos, lanzamientos y pruebas combinadas.",
+      "imagen": "https://www.elperuano.pe/fotografia/thumbnail/2020/11/23/000099508M.jpg",
+      "reglas": "Cada disciplina tiene sus propias reglas, pero en general se trata de superar marcas o recorrer distancias en el menor tiempo posible. Las pruebas de pista se realizan en una pista de atletismo y las de campo en un espacio delimitado.",
+      "equipamiento": "Para el atletismo se necesitan zapatillas deportivas, ropa cómoda y en algunas disciplinas implementos como jabalinas, discos o martillos.",
+      "lugar_de_origen": "El atletismo tiene su origen en la antigua Grecia, donde se realizaban competiciones como los Juegos Olímpicos.",
+      "ligas_destacadas": [
+        "Los Juegos Olímpicos",
+        "El Campeonato Mundial de Atletismo",
+        "La Liga de Diamante",
+        "El Maratón de Nueva York",
+        "El Meeting de Zúrich"
+      ]
+    },
+    {
+      "id": 5,
+      "nombre": "Natación",
+      "descripcion": "La natación es un deporte en el que los participantes se desplazan en el agua usando diversas técnicas de propulsión.",
+      "imagen": "https://concepto.de/wp-content/uploads/2019/06/natacion-e1562943144215.jpg",
+      "reglas": "Cada modalidad tiene sus propias reglas, pero en general se trata de recorrer una distancia en el menor tiempo posible. Las pruebas pueden ser en piscina o en aguas abiertas.",
+      "equipamiento": "Para la natación se necesitan trajes de baño, gorros, gafas de natación y en algunos casos aletas o tabla de flotación.",
+      "lugar_de_origen": "La natación era practicada por los antiguos griegos y romanos, aunque como deporte moderno se desarrolló en Inglaterra en el siglo XIX.",
+      "ligas_destacadas": [
+        "Los Juegos Olímpicos",
+        "El Campeonato Mundial de Natación",
+        "La Liga de Natación de Estados Unidos",
+        "El Gran Premio de Natación de Singapur",
+        "La Copa del Mundo de Natación"
+      ]
+    }
+  ]
+}

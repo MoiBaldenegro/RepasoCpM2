@@ -1,0 +1,42 @@
+.card img {
+  width: 26rem;
+  height: 26rem;
+}
+
+.card {
+  position: relative;
+}
+
+.card p {
+  color: #fccc3d;
+}
+
+.card button {
+  position: absolute;
+  left: 23.6rem;
+  top: 1rem;
+  background: #e62143;
+  border-radius: 11px;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: flex;
+  font-family: Mija, -apple-system, BlinkMacSystemFont, Roboto, "Roboto Slab",
+    "Droid Serif", "Segoe UI", system-ui, Arial, sans-serif;
+  font-size: 1.15em;
+  justify-content: center;
+  padding: 0.1rem 1rem;
+  text-align: center;
+  text-decoration: none;
+  text-decoration-skip-ink: auto;
+  text-shadow: rgba(0, 0, 0, 0.3) 1px 1px 1px;
+  text-underline-offset: 1px;
+  transition: all 0.2s ease-in-out;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 2.4Srem;
+  height: 2rem;
+  word-break: break-word;
+  border: 0;
+}
